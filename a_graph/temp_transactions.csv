@@ -1,4 +1,4 @@
-Transaction_ID,Sender_ID,Receiver_ID,Amount,Timestamp,Transaction_Type,Sender_Country,Receiver_Country,Description,Suspicious_Flag
+transaction_id,from_id,to_id,amount,timestamp,transaction_type,sender_country,receiver_country,description,suspicious_flag
 T000000,E0601,E0201,74.7,2024-12-13 02:06:24,Cash Deposit,Afghanistan,Liberia,Cash Deposit #0,False
 T000001,E0498,E0911,2438.77,2024-01-14 01:06:58,Cash Deposit,Sudan,Lesotho,Cash Deposit #1,False
 T000002,E0013,E0915,2264.35,2024-11-18 18:10:46,Wire Transfer,Croatia,Myanmar,Wire Transfer #2,False
